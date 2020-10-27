@@ -1,0 +1,13 @@
+C:\Users\Admin\Source\Repos\which-programing-language-should-I-learn-first\Which-Programing-Should-I-Learn\bin\Debug\Toi_nen_hoc_nnlt_nao.exe.config
+C:\Users\Admin\Source\Repos\which-programing-language-should-I-learn-first\Which-Programing-Should-I-Learn\bin\Debug\Toi_nen_hoc_nnlt_nao.exe
+C:\Users\Admin\Source\Repos\which-programing-language-should-I-learn-first\Which-Programing-Should-I-Learn\bin\Debug\Toi_nen_hoc_nnlt_nao.pdb
+C:\Users\Admin\Source\Repos\which-programing-language-should-I-learn-first\Which-Programing-Should-I-Learn\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Admin\Source\Repos\which-programing-language-should-I-learn-first\Which-Programing-Should-I-Learn\bin\Debug\SwiPlCs.xml
+C:\Users\Admin\Source\Repos\which-programing-language-should-I-learn-first\Which-Programing-Should-I-Learn\obj\Debug\Which_Programing_Should_I_Learn.frmHistory.resources
+C:\Users\Admin\Source\Repos\which-programing-language-should-I-learn-first\Which-Programing-Should-I-Learn\obj\Debug\Which_Programing_Should_I_Learn.frmMain.resources
+C:\Users\Admin\Source\Repos\which-programing-language-should-I-learn-first\Which-Programing-Should-I-Learn\obj\Debug\Toi_nen_hoc_nnlt_nao.Properties.Resources.resources
+C:\Users\Admin\Source\Repos\which-programing-language-should-I-learn-first\Which-Programing-Should-I-Learn\obj\Debug\Toi_nen_hoc_nnlt_nao_.csproj.GenerateResource.cache
+C:\Users\Admin\Source\Repos\which-programing-language-should-I-learn-first\Which-Programing-Should-I-Learn\obj\Debug\Toi_nen_hoc_nnlt_nao_.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\which-programing-language-should-I-learn-first\Which-Programing-Should-I-Learn\obj\Debug\Toi_nen_hoc_nnlt_nao_.csproj.CopyComplete
+C:\Users\Admin\Source\Repos\which-programing-language-should-I-learn-first\Which-Programing-Should-I-Learn\obj\Debug\Toi_nen_hoc_nnlt_nao.exe
+C:\Users\Admin\Source\Repos\which-programing-language-should-I-learn-first\Which-Programing-Should-I-Learn\obj\Debug\Toi_nen_hoc_nnlt_nao.pdb
